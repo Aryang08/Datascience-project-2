@@ -1,0 +1,7 @@
+mercury
+pandas
+plotly
+statsmodels
+numpy
+yfinance
+datetime
